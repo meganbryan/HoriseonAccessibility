@@ -1,4 +1,4 @@
-# HorizeonAccessibility
+# HoriseonAccessibility
 Repository for Homework 1, due Nov. 8, 2020.
 
 For this assignment, I have edited the original files that we were given to optomize accessibilities. 
