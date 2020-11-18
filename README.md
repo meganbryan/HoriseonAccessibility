@@ -1,5 +1,5 @@
 # HoriseonAccessibility
-#### Repository for Homework 1, due Nov. 8, 2020.
+#### This is the repository for Homework 1, due Nov. 8, 2020.
 
 ### For this assignment, I have edited the original files that we were given to optimize accessibilities. 
 #### **The ways in which I achieved this in the HTML file were:**
